@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rai-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="rai-sahil" /> </p>
 
-- 🔭 I’m currently working on [React Portfolio](https://github.com/Rai-Sahil/Personal-Website.git)
+- 🔭 I’m currently working on [Activv App](https://github.com/Rai-Sahil/Activv)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on [Activv Kotlin Android App](https://github.com/Rai-Sahil/Activv.git)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rai-Sahil](https://github.com/Rai-Sahil)
 
-- 💬 Ask me about **Kotlin/C#**
+- 💬 Ask me about **Kotlin/C#/Javascript**
 
 - 📫 How to reach me **raisahil580@gmail.com**
 
