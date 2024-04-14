@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Collaborative Code Editor](https://github.com/Rai-Sahil/Web-Code-Editor)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Go Lang**
 
 - 👨‍💻 All of my projects are available at [https://sahilrai.vercel.app](https://sahilrai.vercel.app)
 
-- 💬 Ask me about **Javascript, Typescript, NodeJS**
+- 💬 Ask me about **Javascript, Typescript, NodeJS, ASP.NET**
 
 - 📫 How to reach me **raisahil580@gmail.com**
 
